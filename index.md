@@ -1,5 +1,4 @@
-GitHub Page
-https://github.com/Glaas/DnD-Fortune-Cookie
+[GitHub Page](https://github.com/Glaas/DnD-Fortune-Cookie)
 
 <div markdown="1">
 ## some markdown
