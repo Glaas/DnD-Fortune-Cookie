@@ -1,6 +1,13 @@
-layout: defaut
+layout: default
 title: Midnight theme
 description: Midnight is a theme for GitHub Pages.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-midnight
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
