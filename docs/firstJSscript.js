@@ -1,18 +1,18 @@
 let value1 = 5;
 let value2 = 10;
 
-function AddValues(x,y){
+function AddValues(x, y) {
 
-    var result = x+y;
+  var result = x + y;
 }
 
 AddValues(value1, value2);
 
-function ChangeValue(){
+function ChangeValue() {
   document.getElementById("demo").innerHTML = "changed !";
 
 }
-function ChangeFortune(){
+function ChangeFortune() {
   document.getElementById("fortune").innerHTML = "new fortune !";
 
 }
