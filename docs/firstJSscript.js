@@ -12,7 +12,10 @@ function ChangeValue(){
   document.getElementById("demo").innerHTML = "changed !";
 
 }
+function ChangeFortune(){
+  document.getElementById("fortune").innerHTML = "new fortune !";
 
+}
 
 
 

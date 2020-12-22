@@ -3,17 +3,20 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="formatting.css">
     <title>Document</title>
 </head>
 <body>
-    <h1> This is my html code</h1>
+    <h1> DnD Fortune cookie</h1>
 
-    <p id="demo">A Paragraph</p>
+    <h2>A fortune cookie generator, to take a glimpse a the fate of your beloved character at the beginning of your session.</h2>
+    <h3>(Or anytime during your session, really.)</h3>
 
-    <button type="button" onclick='ChangeValue()'>Try it</button>
+    <p id=fortune> Fortune</p>
 
-    
-    <script>console.log('hello woooorld')</script>
-    <script src="firstJSscript.js"></script>
+    <button id =theButton type="button" onclick='GenerateFortune()'>Change fortune</button>
+
+
+    <script src="generator.js"></script>
 </body>
 </html>
