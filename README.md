@@ -24,5 +24,7 @@ Sure ! The file from which I pull the quotes from is in docs/generator.js for th
 Let me know ! You have various ways to contact me on [this page](https://linktr.ee/glaas), just use the one that you prefer. If you want a quick answer, email or Twitter DM is generally the fastest !
 
 
-### Thanks !
+### Contributors
+Boyan, Jana owo, PN, [Skeulz](https://www.instagram.com/skeullz_skz/), Plume
+
 Thanks for reading this far, see you soon !
