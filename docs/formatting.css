@@ -1,5 +1,5 @@
 body {
-  background-color: #120033;
+  background-color: #6b4000;
 }
 
 h1, h2, h3, p, #theButton {
@@ -10,7 +10,16 @@ h1, h2, h3, p, #theButton {
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
-h1 {}
+h1 {
+  -webkit-text-stroke-width: .7px;
+  -webkit-text-stroke-color: black;
+
+  font-size: xxx-large;
+
+text-shadow :black 2px 2px;
+
+  
+}
 
 h2 {
   font-weight: normal;
@@ -25,7 +34,13 @@ h3 {
 #fortune {
   font-size: xx-large;
   font-style: italic;
-  color: aquamarine;
+  color: #fbff00;
+  text-shadow :#003b28 2px 2px;
+
+  
+  
+
+  
 }
 
 button {
@@ -51,4 +66,16 @@ button {
 button:hover{
   background-color: #9c4c00;
 
+}
+#made{
+  font-size: small;
+  color: white;
+}
+#glaas{
+  color: cyan;
+}
+
+#git{
+  font-size: small;
+  color: cyan;
 }
