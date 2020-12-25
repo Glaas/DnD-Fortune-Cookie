@@ -28,7 +28,7 @@ var fortuneLines = [
 'Do not sleep with him, he slept with the pigs',
 'If you are hungry, just eat your ancestors',
 'Beware : a member of your party is keeping a secret from you',
-'Look out for horny bard',
+'Look out for the horny bard',
 'Mind the 7th gap in the next dungeon',
 'Your natural charisma shall be useful today',
 'You might feel controlled by forces you do not understand',
