@@ -46,7 +46,7 @@ var fortuneLines = [
 'A lot of people will die today.',
 'Stop picking up junk.',
 'Slow down on the alcohol',
-'Be vigilant if you go into a dark ally next week.',
+'Be vigilant if you go into a dark alley next week.',
 'Try to seduce that elf.',
 'Today is not a good hair day for you. Wear a hat.'
 ]
